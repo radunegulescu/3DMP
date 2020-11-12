@@ -5,4 +5,6 @@ To design and render the mechanism i used Fusion 360 and for slicing I used Prus
 Resources: https://www.youtube.com/watch?v=pX1OS6-TNw8&feature=youtu.be
            https://www.thingiverse.com/thing:3328754 
  The mechanism author is Niko Groko.
+ 
+ ![alt text]
 
