@@ -6,5 +6,5 @@ Resources: https://www.youtube.com/watch?v=pX1OS6-TNw8&feature=youtu.be
            https://www.thingiverse.com/thing:3328754 
  The mechanism author is Niko Groko.
  
- ![alt text] https://github.com/radunegulescu/3DMP/blob/master/Spring%20Car/Spring_Car_new_version_2020-May-26_09-28-25AM-000_CustomizedView31138240812_png.png
+ ![alt text] https://github.com/radunegulescu/3DMP/blob/master/Spring%20Car/Spring_Car_new_version_2020-May-26_09-28-25AM-000_CustomizedView31138240812_png.png?raw=true
 
